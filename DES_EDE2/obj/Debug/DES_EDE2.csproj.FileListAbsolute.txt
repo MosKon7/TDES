@@ -1,0 +1,13 @@
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\bin\Debug\DES_EDE2.exe.config
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\bin\Debug\DES_EDE2.exe
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\bin\Debug\DES_EDE2.pdb
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\obj\Debug\DES_EDE2.csproj.AssemblyReference.cache
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\obj\Debug\DES_EDE2.Form1.resources
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\obj\Debug\DES_EDE2.Properties.Resources.resources
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\obj\Debug\DES_EDE2.csproj.GenerateResource.cache
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\obj\Debug\DES_EDE2.csproj.CoreCompileInputs.cache
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\obj\Debug\DES_EDE2.exe
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\obj\Debug\DES_EDE2.pdb
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\bin\Debug\ru\DES_EDE2.resources.dll
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\obj\Debug\DES_EDE2.Form1.ru.resources
+C:\Users\Moss\Desktop\Labs\Защита Информации\DES_EDE2\obj\Debug\ru\DES_EDE2.resources.dll
